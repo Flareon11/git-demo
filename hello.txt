@@ -13,7 +13,7 @@ hello git!!!
 hello git!!!
 hello git!!!
 hello git!!!
-<<<<<<< HEAD
 hello git!!! master test
 hello git!!! hot-fix test
 111111111
+原神，启动！
